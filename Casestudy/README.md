@@ -39,7 +39,8 @@ capture a good amount of sunlight. In the noon time the sun is ahead and intensi
 * 16MHz Crystal
 * 22pF Ceramic Capacitors x 2
 
-1. ATmega328 Microcontroller
+
+## 1. ATmega328 Microcontroller
 * ATmega328 is an AVR family micro controller which is based on advanced RISC architecture. It is an 8-bit controller. It has 32K bytes of programmable flash memory, 1K bytes of
   EEPROM and 2K bytes of SRAM. It has 23 programmable I/O pins. It supports peripheral features like two 8-bit timers, one 16-bit timer, 6 channel ADC with 10-bit resolution,
   programmable USART, 2 wire serial interface (I2C), etc.
