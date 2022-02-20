@@ -64,7 +64,7 @@ capture a good amount of sunlight. In the noon time the sun is ahead and intensi
 # Requirements
 ## High Level Requirements
 | ID | Description  |
-|----|-----------------------------------------------------------------|
+|----|-------------------------------------------------|
 |HP01| Solar panel must move according to the sunlight |
 
 ## Low Level Requirements
