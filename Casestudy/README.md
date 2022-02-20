@@ -6,7 +6,6 @@
 * Description
 * Block diagram
 * Component details
-* Application
 * Requirements
 * High level requirement
 * Low level requirement
