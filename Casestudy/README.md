@@ -61,3 +61,17 @@ capture a good amount of sunlight. In the noon time the sun is ahead and intensi
 * This specific capacitor is normally used with crystals for loading purposes. These are rated at 22pF and 200V and have a 0.100″ (2.54mm) spacing, meaning these work great with
   a solderless breadboard or protoboard.
 
+# Requirements
+## High Level Requirements
+| ID | Description  |
+|----|-----------------------------------------------------------------|
+|HP01| Solar panel must move according to the sunlight |
+
+## Low Level Requirements
+
+| ID | Description  |
+|----|-----------------------------------------------------------------|
+|LP01| LDR captures the sunlight intensity and sends the feedback to microcontroller |
+|LP02| Microcontroller recieves the feedback and proccess the data and gives inputs to servo |
+|LP03| Servo takes the microcontroller inputs and rotates accordingly |
+
