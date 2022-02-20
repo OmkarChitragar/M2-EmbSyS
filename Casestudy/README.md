@@ -75,3 +75,4 @@ capture a good amount of sunlight. In the noon time the sun is ahead and intensi
 |LP02| Microcontroller recieves the feedback and proccess the data and gives inputs to servo |
 |LP03| Servo takes the microcontroller inputs and rotates accordingly |
 
+# Case Study 2:
