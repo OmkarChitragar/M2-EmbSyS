@@ -45,19 +45,19 @@ capture a good amount of sunlight. In the noon time the sun is ahead and intensi
   EEPROM and 2K bytes of SRAM. It has 23 programmable I/O pins. It supports peripheral features like two 8-bit timers, one 16-bit timer, 6 channel ADC with 10-bit resolution,
   programmable USART, 2 wire serial interface (I2C), etc.
   
-## 2.LDR
+## 2. LDR
 * Light dependent resistors(LDR) are the resistors, whose resistance values depends upon the intensity of the light. As the intensity of light falling on the LDR increases,
   resistance value decreases. In dark, LDR will have maximum resistance. LDR will output an analog value which should be converted to digital. This can be done using analog to
   digital converter.
 
-## 3.Servo Motor
+## 3. Servo Motor
 * A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
 
-## 4.16MHz Crystal Oscillator
+## 4. 16MHz Crystal Oscillator
 * A crystal oscillator is an electronic oscillator circuit that uses the mechanical resonance of a vibrating crystal of piezoelectric material to create an electrical signal
   with a constant frequency.
 
-## 5.22pF Ceramic Capacitors
+## 5. 22pF Ceramic Capacitors
 * This specific capacitor is normally used with crystals for loading purposes. These are rated at 22pF and 200V and have a 0.100″ (2.54mm) spacing, meaning these work great with
   a solderless breadboard or protoboard.
 
