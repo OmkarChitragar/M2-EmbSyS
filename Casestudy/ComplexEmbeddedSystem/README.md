@@ -49,14 +49,13 @@ such a way that can carry a small payload of around 250 gms to a distance of aro
 ## High Level Requirements
 | ID | Description  |
 |----|-------------------------------------------------|
-|HP01| Solar panel must move according to the sunlight |
+|HP01| Robot must balance itself initially |
+|HP02| Robot must balance itself and carry a payload |
 
 ## Low Level Requirements
 
 | ID | Description  |
 |----|-----------------------------------------------------------------|
-|LP01| LDR captures the sunlight intensity and sends the feedback to microcontroller |
-|LP02| Microcontroller recieves the feedback and proccess the data and gives inputs to servo |
-|LP03| Servo takes the microcontroller inputs and rotates accordingly |
-
-
+|LP01| User starts the robot using start button |
+|LP02| User places payload on top of the robot |
+|LP03| User moves the robot using foward, reverse, left and right button |
