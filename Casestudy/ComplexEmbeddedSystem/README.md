@@ -5,6 +5,7 @@
 * Description
 * Block diagram
 * Component details
+* Application
 * Requirements
 
 ## Introduction
