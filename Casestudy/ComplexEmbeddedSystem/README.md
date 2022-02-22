@@ -51,7 +51,8 @@ such a way that can carry a small payload of around 250 gms to a distance of aro
 | ID | Description  |
 |----|-------------------------------------------------|
 |HP01| Robot must balance itself initially |
-|HP02| Robot must balance itself and carry a payload |
+|HP02| Robot must follow the user's instructions |
+|HP03| Robot must balance itself and carry a payload |
 
 ## Low Level Requirements
 
@@ -60,3 +61,4 @@ such a way that can carry a small payload of around 250 gms to a distance of aro
 |LP01| User starts the robot using start button |
 |LP02| User places payload on top of the robot |
 |LP03| User moves the robot using foward, reverse, left and right button |
+|LP04| User stops the robot using stop button |
