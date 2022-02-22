@@ -46,5 +46,17 @@ such a way that can carry a small payload of around 250 gms to a distance of aro
 
 ## Requirements
 
+## High Level Requirements
+| ID | Description  |
+|----|-------------------------------------------------|
+|HP01| Solar panel must move according to the sunlight |
+
+## Low Level Requirements
+
+| ID | Description  |
+|----|-----------------------------------------------------------------|
+|LP01| LDR captures the sunlight intensity and sends the feedback to microcontroller |
+|LP02| Microcontroller recieves the feedback and proccess the data and gives inputs to servo |
+|LP03| Servo takes the microcontroller inputs and rotates accordingly |
 
 
