@@ -6,6 +6,7 @@
 * Description
 * Block diagram
 * Component details
+* Application
 * Requirements
 
 ## Introduction
@@ -59,8 +60,14 @@ rotation.
 ## 5. 22pF Ceramic Capacitors
 * This specific capacitor is normally used with crystals for loading purposes. These are rated at 22pF and 200V and have a 0.100″ (2.54mm) spacing, meaning these work great with
   a solderless breadboard or protoboard.
+  
+# Application
 
-# Requirements
+* It can be used for houshold solar panels, which are employed for producing energy for household porpuses.
+* It can be used anywhere, where the solar panels are employed.
+
+## Requirements
+
 ## High Level Requirements
 | ID | Description  |
 |----|-------------------------------------------------|
