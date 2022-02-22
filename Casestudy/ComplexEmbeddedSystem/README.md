@@ -39,6 +39,11 @@ such a way that can carry a small payload of around 250 gms to a distance of aro
 * 100 rpm dc motor: whenever a current carrying conductor is placed in a magnetic field, it experiences a  mechanical force". The direction of this force is given by Fleming's 
   left-hand rule and its magnitude is given  by F = BIL.
 
+## Application
+
+* It can carry payload from one place to another place.
+* It can be used as a mode of transportation which consumes less workspace.
+
 ## Requirements
 
 
