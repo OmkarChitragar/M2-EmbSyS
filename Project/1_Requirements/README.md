@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* Introduction
+* Abstract
 * Description
 * SWOT analysis
 * 4W's and 1H
@@ -11,7 +11,7 @@
 * Component details
 * Application
 
-## Introduction
+## Abstract
 
 * In our daily life we observe lots of wastage of natural resource such as water, one of the major area whare the wastage of water is seen is overhead tanks at our homes.
   Whenever the water in the tank gets empty we switch on the water pump to fillup the tank. Once the water in the tank fills up, it starts to overflow without any indication to
