@@ -20,7 +20,7 @@
 ## SWOT analysis
 ![Screenshot (225)](https://user-images.githubusercontent.com/42509490/155770217-7c11c6d5-c1c7-49fe-ad25-791606eb5779.png)
 
-## 4W's and 1H
+# 4W's and 1H
 
 ## Who
 * This system can be used by anyone who wants to save water as well as their money.
@@ -37,6 +37,8 @@
 ## How
 * The system controled by atmega328 microcontroller and water level sensor which gives inputs to microcontroller, based on which the water-pump is controlled to fill the water
   tank.
+  
+# Requirements
 
 ## High Level Requirements
 
