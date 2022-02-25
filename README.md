@@ -1,3 +1,3 @@
-# M2-EmbSys
+# Automatic Water-Pumping System with Overflow Control
 
-* Github repositry to create a Embedded System.
+* All the project containts are present inside the Project Folder.
