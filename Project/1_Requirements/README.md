@@ -50,6 +50,8 @@
 * The system controled by atmega328 microcontroller and water level sensor which gives inputs to microcontroller, based on which the water-pump is controlled to fill the water
   tank.
   
+  
+  
 # Requirements
 
 ## High Level Requirements
@@ -70,6 +72,7 @@
 |LP04| Switch on the water-pump when bottom sensor is closed and top sensors is open |
 |LP05| Switch off the water-pump when both the water-level sensors are closed |
 |LP06| Switch off the water-pump when bottom sensor is open and top sensor is closed |
+
 
 ## Component Detailes
 
