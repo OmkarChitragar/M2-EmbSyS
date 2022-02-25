@@ -56,3 +56,9 @@
 |LP04| Switch on the water-pump when bottom sensor is closed and top sensors is open |
 |LP05| Switch off the water-pump when both the water-level sensors are closed |
 |LP06| Switch off the water-pump when bottom sensor is open and top sensor is closed |
+
+## Application
+
+* This system can be used in overhead water tanks in house.
+* This system can be used in offices and industries.
+* This system can be used in other liquid tanks such as oil, milk..etc, other than water. 
