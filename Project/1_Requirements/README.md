@@ -50,8 +50,6 @@
 * The system controled by atmega328 microcontroller and water level sensor which gives inputs to microcontroller, based on which the water-pump is controlled to fill the water
   tank.
   
-  
-  
 # Requirements
 
 ## High Level Requirements
@@ -75,6 +73,16 @@
 
 
 ## Component Detailes
+
+| Components Used | Working As |     Component Discription             | Quantity  |
+|------------|-------------------|-------------------------------------|------------|
+| Atmega328 | Microcontroller|                                         |   x1       |
+| 16x2 LCD | Display |                                                 |     x1     |
+| DCmotor | Water-pump |                                               |   x1       |
+| Led | Indication |                                                   |    x1      |
+| 1kΩ Potentiometer | Water-level ditector |                           |     x1     |
+| Resistor-102 | Resistance |                                          |     x1     |
+| Switch | Water-level sensors |                                       |    x2      |
 
 
 ## Applications
