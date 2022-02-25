@@ -22,6 +22,21 @@
 
 ## 4W's and 1H
 
+## Who
+* This system can be used by anyone who wants to save water as well as their money.
+
+## What
+* This system is an automatic water-pumping and water-level indicator system which save alot of manual efforts.
+
+## When
+* When the water level is low the water gets filled in the tank through water-pump and when the water gets filled fully in the tank the water-pump offs.
+
+## Where
+* This system can be used at any place where the water storage tank is present.
+
+## How
+* The system controled by atmega328 microcontroller and water level sensor which gives inputs to microcontroller, based on which the water-pump is controlled to fill the water
+  tank.
 
 ## High Level Requirements
 
