@@ -40,5 +40,19 @@
 
 ## High Level Requirements
 
+| ID | Description  |
+|----|-----------------------------------------------------------------|
+|HP01| Display the water-level present in the tank |
+|HP02| Switch on the water-pump when water-level is low in the tank |
+|HP03| Switch off the water-pump when water is fully filled in the tank |
 
 ## Low Level Requirements
+
+| ID | Description  |
+|----|-----------------------------------------------------------------|
+|LP01| Display the water-level in terms of liters |
+|LP02| Display the water-level based on sensor's input |
+|LP03| Switch on the water-pump when both the water-level sensors are open |
+|LP04| Switch on the water-pump when bottom sensor is closed and top sensors is open |
+|LP05| Switch off the water-pump when both the water-level sensors are closed |
+|LP06| Switch off the water-pump when bottom sensor is open and top sensor is closed |
