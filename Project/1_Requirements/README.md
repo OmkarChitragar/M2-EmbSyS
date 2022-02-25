@@ -80,7 +80,7 @@
 | 16x2 LCD | Display |                                                 |     x1     |
 | DCmotor | Water-pump |                                               |   x1       |
 | Led | Indication |                                                   |    x1      |
-| 1kΩ Potentiometer | Water-level ditector |                           |     x1     |
+| 1kΩ Potentiometer | Water-level detector |                           |     x1     |
 | Resistor-102 | Resistance |                                          |     x1     |
 | Switch | Water-level sensors |                                       |    x2      |
 
