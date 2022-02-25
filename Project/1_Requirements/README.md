@@ -11,7 +11,7 @@
 * This automated system has two water level sensor which is to be attached at top x1 and bottom x1 surface of the water tank which detects the water level in the tank and switches
   on/off the water pump and also displays the water level.
 
-## Identifing features
+## Identifyng features
 
 * It must detect the water-level and display the water-level.
 * It must detect the low water-level and start the water-pump imediatly with an indication.
