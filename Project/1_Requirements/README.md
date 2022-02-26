@@ -7,7 +7,8 @@
 * SWOT analysis
 * 4W's and 1H
 * Block diagram
-* Requirements
+* High level requirements
+* Low level requirements
 * Component details
 * Application
 
@@ -52,8 +53,6 @@
 
 ## Block Diagram
 ![Block diagram EmbSys](https://user-images.githubusercontent.com/42509490/155845959-13126037-c111-478b-9bb4-7fe362dcf9b7.png)
-
-# Requirements
 
 ## High Level Requirements
 
