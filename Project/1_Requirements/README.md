@@ -5,7 +5,7 @@
 * Abstract
 * Description
 * SWOT analysis
-* 4W's and 1H
+* 5W's and 1H
 * Block diagram
 * High level requirements
 * Low level requirements
@@ -33,13 +33,16 @@
 ## SWOT analysis
 ![Screenshot (225)](https://user-images.githubusercontent.com/42509490/155770217-7c11c6d5-c1c7-49fe-ad25-791606eb5779.png)
 
-# 4W's and 1H
+# 5W's and 1H
 
 ## Who
 * This system can be used by anyone who wants to save water as well as their money.
 
 ## What
 * This system is an automatic water-pumping and water-level indicator system which save alot of manual efforts.
+
+## Why
+* To prevent water tank from overflowing and reduce manual effoerts.
 
 ## When
 * When the water level is low the water gets filled in the tank through water-pump and when the water gets filled fully in the tank the water-pump offs.
