@@ -49,7 +49,10 @@
 ## How
 * The system controled by atmega328 microcontroller and water level sensor which gives inputs to microcontroller, based on which the water-pump is controlled to fill the water
   tank.
-  
+
+## Block Diagram
+![Screenshot (232)](https://user-images.githubusercontent.com/42509490/155838091-3b204ca2-cb63-4cc1-bb90-819d6c734d01.png)
+
 # Requirements
 
 ## High Level Requirements
