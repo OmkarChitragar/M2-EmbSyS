@@ -7,7 +7,7 @@
 ![Screenshot (236)](https://user-images.githubusercontent.com/42509490/155855066-98dbbd85-6947-4f2e-944c-56c239688da8.png)
 
 ## Behavioural Diagram
-![Screenshot (237)](https://user-images.githubusercontent.com/42509490/155856714-e055e168-6cda-4a79-854c-a68e0b575505.png)
+![Screenshot (238)](https://user-images.githubusercontent.com/42509490/155856818-2d1176be-76cd-4286-b45a-87f9351686cf.png)
 
 ## Structural Diagram/ Flowchart
 ![Screenshot (235)](https://user-images.githubusercontent.com/42509490/155854412-a949ab20-b0ad-4bfd-8742-4a0124acacc9.png)
