@@ -9,3 +9,7 @@
 ## Structural Diagram/ Flowchart
 ![Screenshot (227)](https://user-images.githubusercontent.com/42509490/155833154-4395fcd1-1a22-4737-9e90-5f9fa67c6042.png)
 
+## Best method followed
+* The best of the best diagrams are considered
+* With the use of all the diagrams code will be built
+* Low level and High level requirements are implimented
