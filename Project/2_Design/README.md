@@ -3,7 +3,7 @@
 ## Black Box
 ![Screenshot (228)](https://user-images.githubusercontent.com/42509490/155834819-0c1687c7-6275-4996-bb24-75e96938209d.png)
 
-## Behavioural Diagram
+## Block Diagaram/ Behavioural Diagram
 ![Screenshot (226)](https://user-images.githubusercontent.com/42509490/155833107-f9aa439e-6d0e-4d3d-b540-34d50e8ef612.png)
 
 ## Structural Diagram
