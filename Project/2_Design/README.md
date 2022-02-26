@@ -10,7 +10,7 @@
 ![Screenshot (234)](https://user-images.githubusercontent.com/42509490/155850272-b0eb14c9-2436-4bd5-8e20-079416ba0c8a.png)
 
 ## Structural Diagram/ Flowchart
-![Screenshot (227)](https://user-images.githubusercontent.com/42509490/155833154-4395fcd1-1a22-4737-9e90-5f9fa67c6042.png)
+![Screenshot (235)](https://user-images.githubusercontent.com/42509490/155854412-a949ab20-b0ad-4bfd-8742-4a0124acacc9.png)
 
 ## Best method followed
 * The best of the best diagrams are considered
