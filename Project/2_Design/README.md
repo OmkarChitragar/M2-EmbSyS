@@ -6,7 +6,7 @@
 ## Block Diagram
 ![Block diagram EmbSys](https://user-images.githubusercontent.com/42509490/155846259-a19bbb9b-a821-4b2a-993b-a5f67de15d80.png)
 
-## Behavioural Diagram/ Block Diagram
+## Behavioural Diagram
 ![Screenshot (234)](https://user-images.githubusercontent.com/42509490/155850272-b0eb14c9-2436-4bd5-8e20-079416ba0c8a.png)
 
 ## Structural Diagram/ Flowchart
