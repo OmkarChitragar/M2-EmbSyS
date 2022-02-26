@@ -55,7 +55,7 @@
   tank.
 
 ## Block Diagram
-![Block diagram EmbSys](https://user-images.githubusercontent.com/42509490/155851346-bf42ae39-ac74-4ae2-83da-5446e70bf975.png)
+![Screenshot (236)](https://user-images.githubusercontent.com/42509490/155855134-4c4f418f-2a9a-485b-ab00-3ab6d33b640e.png)
 
 ## High Level Requirements
 
