@@ -76,7 +76,7 @@
 
 | Components Used | Working As |     Component Discription             | Quantity  |
 |------------|-------------------|-------------------------------------|------------|
-| Atmega328 | Microcontroller| ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family which has a modified harvard architecture 8-bit RISC processor core. Atmega328 has 28 pins in total which is divided into 3 Ports in total which are named as Port B, Port C and Port D. It has EPROM and clock built internally. |   x1       |
+| Atmega328 microcontroller | Microprocessor| ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family which has a modified harvard architecture 8-bit RISC processor core. Atmega328 has 28 pins in total which is divided into 3 Ports in total which are named as Port B, Port C and Port D. It has EPROM and clock built internally. |   x1       |
 | 16x2 LCD | Display | Liquid Crystal Display or LCD is used to display character digitally. A 16x2 LCD display can display 16 characters per line and there are 2 such lines. |     x1     |
 | DCmotor | Water-pump | It has a set of magnets in a metal cover, and a coil of wire in which current passes in order to generate an electromagnetic field. Due to which the axel of the foter rotates.                     |   x1       |
 | LED | Indication | A light emitting diode(LED) is a semiconductor light which emits light when current flows through it.  |    x1      |
