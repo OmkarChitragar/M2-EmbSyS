@@ -7,7 +7,7 @@
 ![Block diagram EmbSys](https://user-images.githubusercontent.com/42509490/155846259-a19bbb9b-a821-4b2a-993b-a5f67de15d80.png)
 
 ## Behavioural Diagram/ Block Diagram
-![Screenshot (226)](https://user-images.githubusercontent.com/42509490/155833107-f9aa439e-6d0e-4d3d-b540-34d50e8ef612.png)
+![Flowchart Embsys](https://user-images.githubusercontent.com/42509490/155849852-9c0ac288-f82b-46c4-b5bd-54cc9dc25afd.png)
 
 ## Structural Diagram/ Flowchart
 ![Screenshot (227)](https://user-images.githubusercontent.com/42509490/155833154-4395fcd1-1a22-4737-9e90-5f9fa67c6042.png)
