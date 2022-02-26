@@ -76,13 +76,13 @@
 
 | Components Used | Working As |     Component Discription             | Quantity  |
 |------------|-------------------|-------------------------------------|------------|
-| Atmega328 | Microcontroller|                                         |   x1       |
-| 16x2 LCD | Display |                                                 |     x1     |
+| Atmega328 | Microcontroller| ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family which has a modified harvard architecture 8-bit RISC processor core. Atmega328 has 28 pins in total which is divided into 3 Ports in total which are named as Port B, Port C and Port D. It has EPROM and clock built internally. |   x1       |
+| 16x2 LCD | Display | Liquid Crystal Display or LCD is used to display character digitally. A 16x2 LCD display can display 16 characters per line and there are 2 such lines. |     x1     |
 | DCmotor | Water-pump | It has a set of magnets in a metal cover, and a coil of wire in which current passes in order to generate an electromagnetic field. Due to which the axel of the foter rotates.                     |   x1       |
-| Led | Indication |                                                   |    x1      |
-| 1kΩ Potentiometer | Water-level detector |                           |     x1     |
-| Resistor-102 | Resistance |                                          |     x1     |
-| Switch | Water-level sensors |                                       |    x2      |
+| LED | Indication | A light emitting diode(LED) is a semiconductor light which emits light when current flows through it.  |    x1      |
+| 1kΩ Potentiometer | Water-level detector | A 1KΩ potentiometer hass a 3-I/O pins with 15mm shaft. This is used for adjusting various parameters such as voltage and current in an electronic circuit.                           |     x1     |
+| 100Ω Resistor | Resistance | A resistor is a passive two-terminal electrical component that implements electrical resistance in an electronic circuit. An 100Ω resistor can make excellent pull-ups, pull-downs and are a good current limiters.      |     x1     |
+| Switch | Water-level sensors | Switch make or breaks the circuit by switch on/off condition, whivh is opening or closing of the electrical line or circuit.  |    x2      |
 
 
 ## Applications
