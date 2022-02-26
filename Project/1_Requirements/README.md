@@ -34,7 +34,7 @@
 ![Screenshot (225)](https://user-images.githubusercontent.com/42509490/155770217-7c11c6d5-c1c7-49fe-ad25-791606eb5779.png)
 
 # 5W's and 1H
-![Screenshot (239)](https://user-images.githubusercontent.com/42509490/155858096-930e6f58-abb6-49ec-a7b4-5db24a66aa01.png)
+![Screenshot (240)](https://user-images.githubusercontent.com/42509490/155858191-b89f6357-613b-4db8-957b-4efd400caaf6.png)
 
 ## Block Diagram
 ![Screenshot (236)](https://user-images.githubusercontent.com/42509490/155855134-4c4f418f-2a9a-485b-ab00-3ab6d33b640e.png)
