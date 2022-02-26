@@ -78,8 +78,7 @@
 |------------|-------------------|-------------------------------------|------------|
 | Atmega328 | Microcontroller|                                         |   x1       |
 | 16x2 LCD | Display |                                                 |     x1     |
-| DCmotor | Water-pump | It has a set of magnets in a metal cover, and a coil of wire in which current passes in order to generate an electromagnetic field. Due to which the
-                        axel of the foter rotates.                     |   x1       |
+| DCmotor | Water-pump | It has a set of magnets in a metal cover, and a coil of wire in which current passes in order to generate an electromagnetic field. Due to which the axel of the foter rotates.                     |   x1       |
 | Led | Indication |                                                   |    x1      |
 | 1kΩ Potentiometer | Water-level detector |                           |     x1     |
 | Resistor-102 | Resistance |                                          |     x1     |
