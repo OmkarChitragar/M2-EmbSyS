@@ -3,6 +3,9 @@
 ## Black Box
 ![Screenshot (228)](https://user-images.githubusercontent.com/42509490/155834819-0c1687c7-6275-4996-bb24-75e96938209d.png)
 
+## Block Diagram
+![Block diagram EmbSys](https://user-images.githubusercontent.com/42509490/155846259-a19bbb9b-a821-4b2a-993b-a5f67de15d80.png)
+
 ## Behavioural Diagram/ Block Diagram
 ![Screenshot (226)](https://user-images.githubusercontent.com/42509490/155833107-f9aa439e-6d0e-4d3d-b540-34d50e8ef612.png)
 
