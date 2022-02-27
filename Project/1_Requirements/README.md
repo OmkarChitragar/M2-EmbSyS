@@ -58,7 +58,6 @@
 |LLR5| Switch off the water-pump when both the water-level sensors are closed |HLR3|
 |LLR6| Switch off the water-pump when bottom sensor is open and top sensor is closed |HLR3|
 
-
 ## Component Detailes
 
 | Components Used | Working As |     Component Discription             | Quantity  |
