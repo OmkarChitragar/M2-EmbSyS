@@ -27,19 +27,19 @@ such a way that can carry a small payload of around 250 gms to a distance of aro
 
 ## Component Detailes
 
-*  Arduino UNO: The Arduino Uno is an open-source microcontroller board based on the Microchip ATmega328P microcontroller and developed by Arduino.cc. The board is equipped with
+*  Arduino UNO:  The Arduino Uno is an open-source microcontroller board based on the Microchip ATmega328P microcontroller and developed by Arduino.cc. The board is equipped with
   sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards (shields) and other circuits.
 
-*  Lead acid battery: It generates electricity through a double sulfate chemical reaction of lead and lead  dioxide, the active materials on the battery's plates, react with
+*  Lead acid battery:  It generates electricity through a double sulfate chemical reaction of lead and lead  dioxide, the active materials on the battery's plates, react with
   sulfuric acid in the electrolyte to form lead  sulfate.
 
-*  Accelerometer and Gyroscope: The basic underlying working principle of an accelerometer is such as a dumped  mass on a spring. When acceleration is experienced by this device,
+*  Accelerometer and Gyroscope:  The basic underlying working principle of an accelerometer is such as a dumped  mass on a spring. When acceleration is experienced by this device,
   the mass gets displaced till the spring can easily  move the mass, with the same rate equal to the acceleration it sensed. Then this displacement value is used to give  the
   acceleration. Gyroscope works on the principle of conservation of angular momentum. It works by preserving the angular  momentum.
 
-*  L293D: works on H-bridge principle(An H-bridge is an electronic circuit that switches the polarity of a  voltage applied to a load).
+*  L293D:  works on H-bridge principle(An H-bridge is an electronic circuit that switches the polarity of a  voltage applied to a load).
 
-*  100 rpm dc motor: whenever a current carrying conductor is placed in a magnetic field, it experiences a  mechanical force". The direction of this force is given by Fleming's 
+*  100 rpm dc motor:  whenever a current carrying conductor is placed in a magnetic field, it experiences a  mechanical force". The direction of this force is given by Fleming's 
   left-hand rule and its magnitude is given  by F = BIL.
 
 ## Application
