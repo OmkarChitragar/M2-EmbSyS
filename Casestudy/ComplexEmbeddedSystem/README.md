@@ -20,8 +20,6 @@ The 2-wheeled selfbalancing robot is built using Arduino UNO, 6-DOF MPU6050 sens
 such a way that can carry a small payload of around 250 gms to a distance of around 500 mm from the source. The robot works for a minimum of 30 mins everyday. 
 
 ## Block Diagram
-
-*  Functional diagram
 ![Screenshot (224)](https://user-images.githubusercontent.com/42509490/154862731-120869ba-c725-497d-96a6-98617d5b3155.png)
 
 ## Component Detailes
