@@ -33,7 +33,7 @@
 ## SWOT analysis
 ![Screenshot (225)](https://user-images.githubusercontent.com/42509490/155770217-7c11c6d5-c1c7-49fe-ad25-791606eb5779.png)
 
-# 5W's and 1H
+## 5W's and 1H
 ![Screenshot (240)](https://user-images.githubusercontent.com/42509490/155858191-b89f6357-613b-4db8-957b-4efd400caaf6.png)
 
 ## Block Diagram
@@ -70,7 +70,6 @@
 | 1kΩ Potentiometer | Water-level detector | A 1KΩ potentiometer hass a 3-I/O pins with 15mm shaft. This is used for adjusting various parameters such as voltage and current in an electronic circuit.                           |     x1     |
 | 100Ω Resistor | Resistance | A resistor is a passive two-terminal electrical component that implements electrical resistance in an electronic circuit. An 100Ω resistor can make excellent pull-ups, pull-downs and are a good current limiters.      |     x1     |
 | Switch | Water-level sensors | Switch make or breaks the circuit by switch on/off condition, whivh is opening or closing of the electrical line or circuit.  |    x2      |
-
 
 ## Applications
 
