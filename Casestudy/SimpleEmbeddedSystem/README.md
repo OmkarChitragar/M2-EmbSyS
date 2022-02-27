@@ -1,4 +1,3 @@
-<!--lint disable-->
 # Case Study 1: Sunlight Tracking Solar Panel
 
 ## Table of Contents
