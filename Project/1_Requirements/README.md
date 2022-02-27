@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-*  Abstract
-*  Description
-*  SWOT analysis
-*  5W's and 1H
-*  Block diagram
-*  High level requirements
-*  Low level requirements
-*  Component details
-*  Application
+1.  Abstract
+2.  Description
+3.  SWOT analysis
+4.  5W's and 1H
+5.  Block diagram
+6.  High level requirements
+7.  Low level requirements
+8.  Component details
+9.  Application
 
 ## Abstract
 
