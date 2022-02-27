@@ -33,17 +33,17 @@ rotation.
 
 ## Component Detailes
 
-  *  ATmega328 Microcontroller
-  *  Light dependent resistor (LDR) x 4
-  *  10KΩ resistor x 5
-  *  Servo motor x 2
-  *  16MHz Crystal
-  *  22pF Ceramic Capacitors x 2
+ *  ATmega328 Microcontroller
+ *  Light dependent resistor (LDR) x 4
+ *  10KΩ resistor x 5
+ *  Servo motor x 2
+ *  16MHz Crystal
+ *  22pF Ceramic Capacitors x 2
 
 1.  ATmega328 Microcontroller
-*  ATmega328 is an AVR family micro controller which is based on advanced RISC architecture. It is an 8-bit controller. It has 32K bytes of programmable flash memory, 1K byte of
-  EEPROM and 2K bytes of SRAM. It has 23 programmable I/O pins. It supports peripheral features like two 8-bit timers, one 16-bit timer, 6 channel ADC with 10-bit resolution,
-  programmable USART, 2 wire serial interface (I2C), etc.
+*  ATmega328 is an AVR family micro controller which is based on advanced RISC architecture. It is an 8-bit controller. It has 32K bytes of programmable flash memory, 1K byte
+   of EEPROM and 2K bytes of SRAM. It has 23 programmable I/O pins. It supports peripheral features like two 8-bit timers, one 16-bit timer, 6 channel ADC with 10-bit
+   resolution, programmable USART, 2 wire serial interface (I2C), etc.
   
 2.  LDR
 *  Light dependent resistors(LDR) are the resistors, whose resistance values depends upon the intensity of the light. As the intensity of light falling on the LDR increases,
