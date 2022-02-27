@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-
 1. Introduction
 2. Description
 3. Block diagram
