@@ -32,12 +32,12 @@ rotation.
 
 ## Component Detailes
 
-*  ATmega328 Microcontroller
-*  Light dependent resistor (LDR) x 4
-*  10KΩ resistor x 5
-*  Servo motor x 2
-*  16MHz Crystal
-*  22pF Ceramic Capacitors x 2
+*   ATmega328 Microcontroller
+*   Light dependent resistor (LDR) x 4
+*   10KΩ resistor x 5
+*   Servo motor x 2
+*   16MHz Crystal
+*   22pF Ceramic Capacitors x 2
 
 1.  ATmega328 Microcontroller
 *  ATmega328 is an AVR family micro controller which is based on advanced RISC architecture. It is an 8-bit controller. It has 32K bytes of programmable flash memory, 1K byte
