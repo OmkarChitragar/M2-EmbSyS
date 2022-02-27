@@ -1,3 +1,4 @@
+<!--lint disable-->
 # Case Study 2: 2-Wheeled Self Balancing Robot
 
 ## Table of Contents
