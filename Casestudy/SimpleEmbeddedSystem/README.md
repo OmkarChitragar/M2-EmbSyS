@@ -3,12 +3,12 @@
 ## Table of Contents
 
 
-* Introduction
-* Description
-* Block diagram
-* Component details
-* Application
-* Requirements
+*  Introduction
+*  Description
+*  Block diagram
+*  Component details
+*  Application
+*  Requirements
 
 ## Introduction
 
