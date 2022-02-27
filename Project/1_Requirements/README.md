@@ -21,7 +21,7 @@
   
 ## Description
 
-*  This automated system has two water level sensor which is to be attached at top x1 and bottom x1 surface of the water tank which detects the water level in the tank and
+*   This automated system has two water level sensor which is to be attached at top x1 and bottom x1 surface of the water tank which detects the water level in the tank and
    switches on/off the water pump and also displays the water level.
 
 ## Identifyng features
@@ -72,6 +72,6 @@
 
 ## Applications
 
-*  This system can be used in overhead water tanks in house.
-*  This system can be used in offices and industries.
-*  This system can be used in other liquid tanks such as oil, milk..etc, other than water. 
+*   This system can be used in overhead water tanks in house.
+*   This system can be used in offices and industries.
+*   This system can be used in other liquid tanks such as oil, milk..etc, other than water. 
