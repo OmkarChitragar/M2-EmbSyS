@@ -25,7 +25,7 @@
     switches on/off the water pump and also displays the water level. The water level sensor in this prototype project is replaced with two on/off switches. 
 *  To read the water level of the overhead water tank there are two reed sensors, one for low level (L) and the other for high level (H). A magnetic float switch that activates
    two reed sensors so that the magnetic float travels from low level (L) to high level (H) and vice-versa according to water level in the water tank. If the L reed sensor
-   triggers its microcontroller input, the water pump is activated with indicator LED lights up. When H level is reached, ie the H reed sensor triggers its microcontroller
+   triggers its microcontroller input, the water pump is activated with indicator LED on. When H level is reached, ie the H reed sensor triggers its microcontroller
    input, water pump is deactivated with indicator LED off. Water pump is reactivated only when water drops back to L level.
    
 ![Screenshot (256)](https://user-images.githubusercontent.com/42509490/156889253-3e715b80-4885-4445-9ca1-6a24c87a6dd9.png)
@@ -74,7 +74,7 @@
 | LED | Indication | A light emitting diode(LED) is a semiconductor light which emits light when current flows through it.  |    x1      |
 | 1kΩ Potentiometer | Water-level detector | A 1KΩ potentiometer hass a 3-I/O pins with 15mm shaft. This is used for adjusting various parameters such as voltage and current in an electronic circuit.                           |     x1     |
 | 100Ω Resistor | Resistance | A resistor is a passive two-terminal electrical component that implements electrical resistance in an electronic circuit. An 100Ω resistor can make excellent pull-ups, pull-downs and are a good current limiters.      |     x1     |
-| Switch | Water-level sensors | Switch make or breaks the circuit by switch on/off condition, whivh is opening or closing of the electrical line or circuit.  |    x2      |
+| Switch | Water-level sensors (reed switch) | Switch make or breaks the circuit by switch on/off condition, whivh is opening or closing of the electrical line or circuit.  |    x2      |
 
 ## Applications
 
