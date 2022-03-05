@@ -1,5 +1,5 @@
-## Content
+# Content
 
-*   Requirements
-*   Design architecture
-*   Project report (pdf. docx.)
+* Requirements
+* Design architecture
+* Project report (pdf. docx.)
