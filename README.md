@@ -17,3 +17,7 @@
    input, water pump is deactivated with indicator LED off. Water pump is reactivated only when water drops back to L level.
    
 ![Screenshot (256)](https://user-images.githubusercontent.com/42509490/156889253-3e715b80-4885-4445-9ca1-6a24c87a6dd9.png)
+
+## Circuit diagram
+
+![Screenshot (257)](https://user-images.githubusercontent.com/42509490/156889644-ce5ef7af-b2dc-4750-b4e2-5ca24bc623a4.png)
