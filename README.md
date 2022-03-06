@@ -18,6 +18,6 @@
 
 ![Screenshot (256)](https://user-images.githubusercontent.com/42509490/156889253-3e715b80-4885-4445-9ca1-6a24c87a6dd9.png)
 
-## Circuit diagram
+## Circuit diagram 
 
-![Screenshot (260)](https://user-images.githubusercontent.com/42509490/156932174-9b8fb5c1-13d3-42be-a179-f40d8c347cb7.png)
+![Screenshot (260)](https://user-images.githubusercontent.com/42509490/156940208-66f78e4c-a84a-4313-9fb7-33c5d243238a.png)
