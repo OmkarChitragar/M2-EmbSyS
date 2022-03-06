@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-1.   Abstract
-2.   Description
-3.   SWOT analysis
-4.   5W's and 1H
-5.   Block diagram
-6.   High level requirements
-7.   Low level requirements
-8.   Component details
-9.   Application
+1.    Abstract
+2.    Description
+3.    SWOT analysis
+4.    5W's and 1H
+5.    Block diagram
+6.    High level requirements
+7.    Low level requirements
+8.    Component details
+9.    Application
 
 ## Abstract
 
@@ -22,11 +22,11 @@
 ## Description
 
 *   This automated system has two water level sensor which is to be attached at top x1 and bottom x1 surface of the water tank which detects the water level in the tank and
-    switches on/off the water pump and also displays the water level. The water level sensor in this prototype project is replaced with two on/off switches.
-*   To read the water level of the overhead water tank there are two reed sensors, one for low level (L) and the other for high level (H). A magnetic float switch that activates
-   two reed sensors so that the magnetic float travels from low level (L) to high level (H) and vice-versa according to water level in the water tank. If the L reed sensor
-   triggers its microcontroller input, the water pump is activated with indicator LED on. When H level is reached, ie the H reed sensor triggers its microcontroller
-   input, water pump is deactivated with indicator LED off. Water pump is reactivated only when water drops back to L level.
+    switches on/off the water pump and also displays the water level. The water level sensor in this prototype project is replaced with two on/off switches. To read the water
+    level of the overhead water tank there are two reed sensors, one for low level (L) and the other for high level (H). A magnetic float switch that activates
+    two reed sensors so that the magnetic float travels from low level (L) to high level (H) and vice-versa according to water level in the water tank. If the L reed sensor
+    triggers its microcontroller input, the water pump is activated with indicator LED on. When H level is reached, ie the H reed sensor triggers its microcontroller
+    input, water pump is deactivated with indicator LED off. Water pump is reactivated only when water drops back to L level.
 
 ![Screenshot (256)](https://user-images.githubusercontent.com/42509490/156889253-3e715b80-4885-4445-9ca1-6a24c87a6dd9.png)
 
