@@ -32,4 +32,3 @@
 ## Switches off the water-pump when both the water-level sensors are closed
 
 ![Screenshot (268)](https://user-images.githubusercontent.com/42509490/156940026-44b248db-9d3b-46c4-9b53-62685a50a1f6.png)
-
