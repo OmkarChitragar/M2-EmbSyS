@@ -20,4 +20,4 @@
 
 ## Circuit diagram
 
-!
+![Screenshot (260)](https://user-images.githubusercontent.com/42509490/156932174-9b8fb5c1-13d3-42be-a179-f40d8c347cb7.png)
