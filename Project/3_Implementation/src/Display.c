@@ -3,11 +3,10 @@
 #include "Display.h"
 #include "Lcd.h"
 #define F_CPU 1600000UL
-
 char display()
 {
         char Temp[20];
-        char start[]="Water Level :";
+        char start[]="Water Level:";
         TCCR1A|=(1<<COM1A1)|(1<<WGM11)|(1<<WGM10);
         TCCR1B|=(1<<WGM12)|(1<<CS11)|(1<<CS10);//choosing 64 as prescalar as a function oc clock
         DDRB|=(1<<PB1); //set portB
@@ -19,12 +18,13 @@ char display()
         Temp[0] = '2';
         Temp[1] = '0';
         Temp[2] = '0';
-        Temp[3] = 'L';
-        Temp[4] = 't';
-        Temp[5] = 'r';
-        Temp[6] = 's';
-        Temp[7] = '.';
-        Temp[8] = '\0';
+        Temp[3] = ' ';
+        Temp[4] = 'L';
+        Temp[5] = 't';
+        Temp[6] = 'r';
+        Temp[7] = 's';
+        Temp[8] = '.';
+        Temp[9] = '\0';
         LCD_DISPLAY(start);
         LCD_CMD(0xC0);
         LCD_DISPLAY(Temp);
@@ -38,12 +38,13 @@ char display()
         Temp[0] = '4';
         Temp[1] = '0';
         Temp[2] = '0';
-        Temp[3] = 'L';
-        Temp[4] = 't';
-        Temp[5] = 'r';
-        Temp[6] = 's';
-        Temp[7] = '.';
-        Temp[8] = '\0';
+        Temp[3] = ' ';
+        Temp[4] = 'L';
+        Temp[5] = 't';
+        Temp[6] = 'r';
+        Temp[7] = 's';
+        Temp[8] = '.';
+        Temp[9] = '\0';
         LCD_DISPLAY(start);
         LCD_CMD(0xC0);
         LCD_DISPLAY(Temp);
@@ -56,12 +57,13 @@ char display()
         Temp[0] = '6';
         Temp[1] = '0';
         Temp[2] = '0';
-        Temp[3] = 'L';
-        Temp[4] = 't';
-        Temp[5] = 'r';
-        Temp[6] = 's';
-        Temp[7] = '.';
-        Temp[8] = '\0';
+        Temp[3] = ' ';
+        Temp[4] = 'L';
+        Temp[5] = 't';
+        Temp[6] = 'r';
+        Temp[7] = 's';
+        Temp[8] = '.';
+        Temp[9] = '\0';
         LCD_DISPLAY(start);
         LCD_CMD(0xC0);
         LCD_DISPLAY(Temp);
@@ -74,12 +76,13 @@ char display()
         Temp[0] = '8';
         Temp[1] = '0';
         Temp[2] = '0';
-        Temp[3] = 'L';
-        Temp[4] = 't';
-        Temp[5] = 'r';
-        Temp[6] = 's';
-        Temp[7] = '.';
-        Temp[8] = '\0';
+        Temp[3] = ' ';
+        Temp[4] = 'L';
+        Temp[5] = 't';
+        Temp[6] = 'r';
+        Temp[7] = 's';
+        Temp[8] = '.';
+        Temp[9] = '\0';
         LCD_DISPLAY(start);
         LCD_CMD(0xC0);
         LCD_DISPLAY(Temp);
@@ -93,16 +96,17 @@ char display()
         Temp[1] = '0';
         Temp[2] = '0';
         Temp[3] = '0';
-        Temp[4] = 'L';
-        Temp[5] = 't';
-        Temp[6] = 'r';
-        Temp[7] = 's';
-        Temp[8] = '.';
+        Temp[4] = ' ';
+        Temp[5] = 'L';
+        Temp[6] = 't';
+        Temp[7] = 'r';
+        Temp[8] = 's';
+        Temp[9] = '.';
         LCD_DISPLAY(start);
         LCD_CMD(0xC0);
         LCD_DISPLAY(Temp);
         _delay_ms(100);
         }
-
+        return 0;
 }
 

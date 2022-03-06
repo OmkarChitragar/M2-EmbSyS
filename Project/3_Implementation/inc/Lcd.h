@@ -3,8 +3,8 @@
 #include <util/delay.h>
 #define LCD_DIRECTION  DDRB			/* Define LCD data port direction */
 #define PORT_B PORTB			/* Define LCD data port */
-#define RS PB2				/* Define Register Select pin */
-#define EN PB3 				/* Define Enable signal pin */
+#define RS PINB2				/* Define Register Select pin */
+#define EN PINB3 				/* Define Enable signal pin */
 void LCD_CMD( unsigned char command );
 void LCD_CHAR_WISE( unsigned char ch );
 void LCD_INITIALIZATION(void);
