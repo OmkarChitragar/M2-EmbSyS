@@ -1,3 +1,4 @@
+# Testplan And Output
 ## High Level Testplan
 
 | Test-ID | Description  | Input | Expexted Output | Actual Output | Status |
@@ -15,3 +16,20 @@
 |LLTP3| Switch on the water-pump when both the water-level sensors are open| Top and Bottom switches(as water-level sensor) are open| DcMotor(as water-pump) must on |DcMotor(as water-pump) on | Pass |HLTP2|
 |LLTP4| Switch on the water-pump when bottom sensor is closed and top sensors is open| Top switch open and Bottom switch closed |DcMotor(as water-pump) must on| DcMotor(as water-pump) on| Pass |HLR2|
 |LLTP5| Switch off the water-pump when both the water-level sensors are closed|Top switch and Bottom switch(as water-level sensor) are closed|DcMotor(as water-pump) must off|DcMotor(as water-pump) off| Pass |HLR3|
+
+## Display the water-level present in the tank interms of liters based on potentiometer input
+
+![Screenshot (260)](https://user-images.githubusercontent.com/42509490/156939826-eb965d74-36c4-4a81-b95a-eca91d627a96.png)
+
+## Switch on the water-pump when both the water-level sensors are open
+
+![Screenshot (265)](https://user-images.githubusercontent.com/42509490/156939971-4db63506-5411-478d-bb88-d34ab07b1cf9.png)
+
+## Switch on the water-pump when bottom sensor is closed and top sensors is open
+
+![Screenshot (266)](https://user-images.githubusercontent.com/42509490/156940006-7e43caf1-6ed2-477c-842f-60c28ae68d95.png)
+
+## Switch off the water-pump when both the water-level sensors are closed
+
+![Screenshot (268)](https://user-images.githubusercontent.com/42509490/156940026-44b248db-9d3b-46c4-9b53-62685a50a1f6.png)
+
