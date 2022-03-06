@@ -9,7 +9,7 @@ src/Lcd.c\
 src/Display.c
 
 # All header file paths
-INC = -I inc
+INC = -Iinc
 				
 # AVR Compiler
 	  CC = avr-gcc
