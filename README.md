@@ -19,6 +19,6 @@
 
 ![Screenshot (256)](https://user-images.githubusercontent.com/42509490/156889253-3e715b80-4885-4445-9ca1-6a24c87a6dd9.png)
 
-## Circuit diagram
+## Circuit Diagram and Simulation
 
-![Screenshot (269)](https://user-images.githubusercontent.com/42509490/156941314-5399221f-8cba-42de-8ef2-7b6db68d212d.png)
+![Screenshot (270)](https://user-images.githubusercontent.com/42509490/156945816-b9fd09e7-f1f6-4c83-9bc0-3b56b717efa4.png)
