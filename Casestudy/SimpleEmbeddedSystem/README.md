@@ -53,16 +53,16 @@ rotation.
 
 3.  Servo Motor
 
-*    A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
+*   A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
 
 4.  16MHz Crystal Oscillator
 
-*    A crystal oscillator is an electronic oscillator circuit that uses the mechanical resonance of a vibrating crystal of piezoelectric material to create an electrical signal
+*   A crystal oscillator is an electronic oscillator circuit that uses the mechanical resonance of a vibrating crystal of piezoelectric material to create an electrical signal
     with a constant frequency.
 
 5.  22pF Ceramic Capacitors
 
-*    This specific capacitor is normally used with crystals for loading purposes. These are rated at 22pF and 200V and have a 0.100″ (2.54mm) spacing, meaning these work great
+*   This specific capacitor is normally used with crystals for loading purposes. These are rated at 22pF and 200V and have a 0.100″ (2.54mm) spacing, meaning these work great
     with a solderless breadboard or protoboard.
   
 ## Application
