@@ -2,11 +2,8 @@
 
 | Codacy badge | Codiga badge | Codiga badge |
 |--------------|--------------|--------------|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6d1e75acee114e148b4121ba755ea17b)](https://www.codacy.com/gh/OmkarChitragar/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M2-EmbSys&amp;utm_campaign=Badge_Grade)| <a href="https://api.codiga.io/project/31477/score/svg">
-   <img src="https://api.codiga.io/project/31477/score/svg?style=dark" alt="codiga badge" />
-</a> |<a href="https://api.codiga.io/project/31477/status/svg">
-   <img src="https://api.codiga.io/project/31477/status/svg?style=dark" alt="codiga badge" />
-</a>  |
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/485cce76907849b3833d1b3c605205a3)](https://www.codacy.com/gh/OmkarChitragar/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M2-EmbSys&amp;utm_campaign=Badge_Grade)| <a href="https://api.codiga.io/project/31477/score/svg">   <img src="https://api.codiga.io/project/31477/score/svg?style=dark" alt="codiga badge" /></a> |  <a href="https://api.codiga.io/project/31477/status/svg">   <img src="https://api.codiga.io/project/31477/status/svg" alt="codiga badge" /></a> |
+ 
 
 * All the project containts are present inside the project folder.
 ![Screenshot (239)](https://user-images.githubusercontent.com/42509490/155874997-4b79db24-c957-4cbf-b124-32bafc852b7b.png)
