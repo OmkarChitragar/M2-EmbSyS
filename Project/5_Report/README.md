@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/485cce76907849b3833d1b3c605205a3)](https://www.codacy.com/gh/OmkarChitragar/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M2-EmbSys&amp;utm_campaign=Badge_Grade)
