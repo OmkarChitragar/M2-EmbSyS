@@ -30,7 +30,7 @@
 ![Screenshot (273)](https://user-images.githubusercontent.com/42509490/157050478-b95b929b-d6b0-4ea1-bffa-6a048746a18b.png)
 
 *	The .hex file was generated after successfully building and running of the code.
-*	The generated .hex file is the loaded in the Atmega328 microcontroller and the simulation was carried out successfully.  
+*	The generated .hex file is then loaded in the Atmega328 microcontroller and the simulation was carried out successfully.  
 
 ## Learnings
 
