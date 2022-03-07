@@ -22,3 +22,24 @@
 ## Circuit Diagram and Simulation
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/42509490/156945816-b9fd09e7-f1f6-4c83-9bc0-3b56b717efa4.png)
+
+•	The circuit is designed in Simul-IDE software.
+•	The simulation is carried out using .hex file.
+•	The code for simulation is designed in VS-studio code using Platform.io extension.
+
+![Screenshot (273)](https://user-images.githubusercontent.com/42509490/157050478-b95b929b-d6b0-4ea1-bffa-6a048746a18b.png)
+
+•	The .hex file was generated after successfully building and running of the code.
+•	The generated .hex file is the loaded in the Atmega328 microcontroller and the simulation was carried out successfully.  
+
+## Learnings
+
+•	Learnt to design circuits effectively in simul-IDE software.
+•	Learnt to code embedded-c in platform.io in visual studio code.
+•	Conducted researches on case study.
+
+## Challenges
+
+•	Due to limitations of sensors in simul-IDE software it was bit difficult to design a circuit and build code. The challenge was overcome by replacing the water-level sensor
+  with on/off switch and water-level indicator sensor with potentiometer.
+  
