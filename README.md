@@ -40,6 +40,6 @@
 
 ## Challenges
 
-*	Due to limitations of sensors in simul-IDE software it was bit difficult to design a circuit and build code. The challenge was overcome by replacing the water-level sensor
-  with on/off switch and water-level indicator sensor with potentiometer.
+*	Due to limitations of sensors in simul-IDE software it was bit difficult to design the circuit and build code. 
+*	The challenge was overcome by replacing the water-level sensor with on/off switch and water-level indicator sensor with potentiometer.
   
