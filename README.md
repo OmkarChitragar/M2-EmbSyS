@@ -6,8 +6,6 @@
 
 *   NOTE: All the project contents are present inside the project folder including presentation video.
 
-![my_gif](https://user-images.githubusercontent.com/42509490/157237390-250b7577-1138-4244-ab5a-6b52d8b241e4.gif)
-
 ![Screenshot (239)](https://user-images.githubusercontent.com/42509490/155874997-4b79db24-c957-4cbf-b124-32bafc852b7b.png)
 
 ## Description
@@ -23,22 +21,22 @@
 
 ## Circuit Diagram and Simulation
 
-![Screenshot (270)](https://user-images.githubusercontent.com/42509490/156945816-b9fd09e7-f1f6-4c83-9bc0-3b56b717efa4.png)
+![my_gif](https://user-images.githubusercontent.com/42509490/157237390-250b7577-1138-4244-ab5a-6b52d8b241e4.gif)
 
-*	  The circuit is designed in Simul-IDE software.
-*	  The simulation is carried out using .hex file.
-*	  The code for simulation is designed in VS-studio code using Platform.io extension.
+*   The circuit is designed in Simul-IDE software.
+*   The simulation is carried out using .hex file.
+*   The code for simulation is designed in VS-studio code using Platform.io extension.
 
 ![Screenshot (273)](https://user-images.githubusercontent.com/42509490/157050478-b95b929b-d6b0-4ea1-bffa-6a048746a18b.png)
 
-* 	The .hex file was generated after successfully building and running of the code.
-*	  The generated .hex file is then loaded in the Atmega328 microcontroller and the simulation was carried out successfully.  
+*   The .hex file was generated after successfully building and running of the code.
+*   The generated .hex file is then loaded in the Atmega328 microcontroller and the simulation was carried out successfully.  
 
 ## Learnings
 
-*	  Learnt to design circuits effectively in simul-IDE software.
-*  	Learnt to code embedded-c in platform.io in visual studio code.
-*	  Conducted researches on case study.
+*   Learnt to design circuits effectively in simul-IDE software.
+*   Learnt to code embedded-c in platform.io in visual studio code.
+*   Conducted researches on case study.
 
 ## Challenges
 
