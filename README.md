@@ -40,7 +40,7 @@
 * Learnt to code embedded-c in platform.io in visual studio code.
 * Conducted researches on case study.
 
-## Challenges
+## Challenges Faced
 
 * Due to limitations of sensors in simul-IDE software it was bit difficult to design the circuit and build code. 
 * The challenge was overcome by replacing the water-level sensor with on/off switch and water-level indicator sensor with
