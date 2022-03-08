@@ -6,6 +6,8 @@
 
 *   NOTE: All the project contents are present inside the project folder including presentation video.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/42509490/157232172-98166cd2-bdff-49dc-82a8-0dc48085560c.gif)
+
 ![Screenshot (239)](https://user-images.githubusercontent.com/42509490/155874997-4b79db24-c957-4cbf-b124-32bafc852b7b.png)
 
 ## Description
