@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-1. Introduction
-2. Description
-3. Block diagram
-4. Component details
-5. Application
-6. Requirements
+1.Introduction
+2.Description
+3.Block diagram
+4.Component details
+5 Application
+6.Requirements
 
 ## Introduction
 
