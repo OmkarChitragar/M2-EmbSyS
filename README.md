@@ -2,7 +2,7 @@
 
 | Codacy badge | Codiga badge | Codiga badge |
 |--------------|--------------|--------------|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/314c0eb2cec7472f805e7eaab30188d5)](https://www.codacy.com/gh/OmkarChitragar/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M2-EmbSys&amp;utm_campaign=Badge_Grade)| <a href="https://api.codiga.io/project/31477/score/svg">   <img src="https://api.codiga.io/project/31477/score/svg?style=dark" alt="codiga badge" /></a> |  <a href="https://api.codiga.io/project/31477/status/svg">   <img src="https://api.codiga.io/project/31477/status/svg" alt="codiga badge" /></a> |
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/314c0eb2cec7472f805e7eaab30188d5)](https://www.codacy.com/gh/OmkarChitragar/M2-EmbSyS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M2-EmbSyS&amp;utm_campaign=Badge_Grade)| <a href="https://api.codiga.io/project/31477/score/svg">   <img src="https://api.codiga.io/project/31477/score/svg?style=dark" alt="codiga badge" /></a> |  <a href="https://api.codiga.io/project/31477/status/svg">   <img src="https://api.codiga.io/project/31477/status/svg" alt="codiga badge" /></a> |
 
 *   NOTE: All the project contents are present inside the project folder including presentation video.
 
