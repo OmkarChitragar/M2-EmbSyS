@@ -16,6 +16,10 @@
 
 ![Screenshot (235)](https://user-images.githubusercontent.com/42509490/155854412-a949ab20-b0ad-4bfd-8742-4a0124acacc9.png)
 
+## Circuit Diagram and Simulation
+
+![my_gif](https://user-images.githubusercontent.com/42509490/157237390-250b7577-1138-4244-ab5a-6b52d8b241e4.gif)
+
 ## Best method followed
 
 *   The best of the best diagrams are considered
