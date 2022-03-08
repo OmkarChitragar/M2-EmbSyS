@@ -18,7 +18,7 @@
   water is seen is overhead tanks at our homes. Whenever the water in the tank gets empty we switch on the water pump to fillup
   the tank. Once the water in the tank fills up, it starts to overflow without any indication to us. In addition, we need to
   manually switch on/off the water pump in a timely manner. So in order to prevent the overflow of the tank and make the whole
-  process of pumping up the water automated an Automatic Water Pumping System with Overflow and Water Level Indicator can be
+  process of pumping up the water automated an Automatic Water Pumping System with Overflow Control and Water Level Indicator can be
   a great solution.
   
 ## Description
