@@ -13,9 +13,9 @@
 
 In recent years usage of non-renuable energy resources is decreasing with the increase in usage of the renuable energy resouces, such as solar panel for producing electricity
 and storing the generated energy into the batteries. This stored energy is used for house hold activities. There is a need of uninturepted continuous production of electrical
-energy in order to save the charging time and for the effecient usage of solar energy. For that the solar panels should absorb energy to the maximum extent. This can be done if
-the solar panels are continuously placed towards the direction of the sun rays. In order the overcome this challenge a sunlight tracking system is built and can be attached to
-the solar panel.
+energy in order to save the charging time and for the effecient usage of solar energy. For that the solar panels should absorb energy to the maximum extent. This can be done
+if the solar panels are continuously placed towards the direction of the sun rays. In order the overcome this challenge a sunlight tracking system is built and can be attached
+to the solar panel.
 
 ## Description
 
@@ -32,43 +32,43 @@ rotation.
 
 ## Component Detailes
 
-* ATmega328 Microcontroller
-* Light dependent resistor (LDR) x 4
-* 10KΩ resistor x 5
-* Servo motor x 2
-* 16MHz Crystal
-* 22pF Ceramic Capacitors x 2
+*   ATmega328 Microcontroller
+*   Light dependent resistor (LDR) x 4
+*   10KΩ resistor x 5
+*   Servo motor x 2
+*   16MHz Crystal
+*   22pF Ceramic Capacitors x 2
 
-1. ATmega328 Microcontroller
+1.  ATmega328 Microcontroller
 
-* ATmega328 is an AVR family micro controller which is based on advanced RISC architecture. It is an 8-bit controller. It has 32K bytes of programmable flash memory, 1K byte
+*   ATmega328 is an AVR family micro controller which is based on advanced RISC architecture. It is an 8-bit controller. It has 32K bytes of programmable flash memory, 1K byte
     of EEPROM and 2K bytes of SRAM. It has 23 programmable I/O pins. It supports peripheral features like two 8-bit timers, one 16-bit timer, 6 channel ADC with 10-bit
     resolution, programmable USART, 2 wire serial interface (I2C), etc.
   
-2. LDR
+2.  LDR
 
-* Light dependent resistors(LDR) are the resistors, whose resistance values depends upon the intensity of the light. As the intensity of light falling on the LDR increases,
+*   Light dependent resistors(LDR) are the resistors, whose resistance values depends upon the intensity of the light. As the intensity of light falling on the LDR increases,
     resistance value decreases. In dark, LDR will have maximum resistance. LDR will output an analog value which should be converted to digital. This can be done using analog
     to digital converter.
 
-3. Servo Motor
+3.  Servo Motor
 
-* A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
+*   A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
 
-4. 16MHz Crystal Oscillator
+4.  16MHz Crystal Oscillator
 
-* A crystal oscillator is an electronic oscillator circuit that uses the mechanical resonance of a vibrating crystal of piezoelectric material to create an electrical signal
+*   A crystal oscillator is an electronic oscillator circuit that uses the mechanical resonance of a vibrating crystal of piezoelectric material to create an electrical signal
     with a constant frequency.
 
-5. 22pF Ceramic Capacitors
+5.  22pF Ceramic Capacitors
 
-* This specific capacitor is normally used with crystals for loading purposes. These are rated at 22pF and 200V and have a 0.100″ (2.54mm) spacing, meaning these work great
+*   This specific capacitor is normally used with crystals for loading purposes. These are rated at 22pF and 200V and have a 0.100″ (2.54mm) spacing, meaning these work great
     with a solderless breadboard or protoboard.
   
 ## Application
 
-* It can be used for houshold solar panels, which are employed for producing energy for household porpuses.
-* It can be used anywhere, where the solar panels are employed.
+*   It can be used for houshold solar panels, which are employed for producing energy for household porpuses.
+*   It can be used anywhere, where the solar panels are employed.
 
 ## Requirements
 

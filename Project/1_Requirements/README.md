@@ -2,26 +2,26 @@
 
 ## Table of Contents
 
-1. Abstract
-2. Description
-3. SWOT analysis
-4. 5W's and 1H
-5. Block diagram
-6. High level requirements
-7. Low level requirements
-8. Component details
-9. Application
+1.  Abstract
+2.  Description
+3.  SWOT analysis
+4.  5W's and 1H
+5.  Block diagram
+6.  High level requirements
+7.  Low level requirements
+8.  Component details
+9.  Application
 
 ## Abstract
 
-* In our daily life we observe lots of wastage of natural resource such as water, one of the major area whare the wastage of water is seen is overhead tanks at our homes.
+*   In our daily life we observe lots of wastage of natural resource such as water, one of the major area where the wastage of water is seen is overhead tanks at our homes.
     Whenever the water in the tank gets empty we switch on the water pump to fillup the tank. Once the water in the tank fills up, it starts to overflow without any indication
     to us. In addition, we need to manually switch on/off the water pump in a timely manner. So in order to prevent the overflow of the tank and make the whole process of
     pumping up the water automated an Automatic Water Pumping System with Overflow and Water Level Indicator can be great solution.
   
 ## Description
 
-* This automated system has two water level sensor which is to be attached at top x1 and bottom x1 surface of the water tank which detects the water level in the tank and
+*   This automated system has two water level sensor which is to be attached at top x1 and bottom x1 surface of the water tank which detects the water level in the tank and
     switches on/off the water pump and also displays the water level. The water level sensor in this prototype project is replaced with two on/off switches. To read the water
     level of the overhead water tank there are two reed sensors, one for low level (L) and the other for high level (H). A magnetic float switch that activates
     two reed sensors so that the magnetic float travels from low level (L) to high level (H) and vice-versa according to water level in the water tank. If the L reed sensor
@@ -32,9 +32,9 @@
 
 ## Identifyng features
 
-* It must detect the water-level and display the water-level.
-* It must detect the low water-level and start the water-pump imediatly with an indication.
-* It must detect the high water-level and stop the water-pump imediatly with an indication.
+*   It must detect the water-level and display the water-level.
+*   It must detect the low water-level and start the water-pump imediatly with an indication.
+*   It must detect the high water-level and stop the water-pump imediatly with an indication.
 
 ## SWOT analysis
 
@@ -81,6 +81,6 @@
 
 ## Applications
 
-* This system can be used in overhead water tanks in house.
-* This system can be used in offices and industries.
-* This system can be used in other liquid tanks such as oil, milk..etc, other than water.
+*   This system can be used in overhead water tanks in house.
+*   This system can be used in offices and industries.
+*   This system can be used in other liquid tanks such as oil, milk..etc, other than water.
