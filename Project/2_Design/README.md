@@ -19,5 +19,5 @@
 ## Best method followed
 
 *   The best of the best diagrams are considered
-*   With the use of all the diagrams code will be built
+*   With the use of all the diagrams code is built
 *   Low level and High level requirements are implimented
