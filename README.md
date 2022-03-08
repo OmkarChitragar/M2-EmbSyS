@@ -4,7 +4,7 @@
 |--------------|--------------|--------------|
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/485cce76907849b3833d1b3c605205a3)](https://www.codacy.com/gh/OmkarChitragar/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OmkarChitragar/M2-EmbSys&amp;utm_campaign=Badge_Grade)| <a href="https://api.codiga.io/project/31477/score/svg">   <img src="https://api.codiga.io/project/31477/score/svg?style=dark" alt="codiga badge" /></a> |  <a href="https://api.codiga.io/project/31477/status/svg">   <img src="https://api.codiga.io/project/31477/status/svg" alt="codiga badge" /></a> |
 
-* NOTE: All the project contents are present inside the project folder including presentation video
+* NOTE: All the project contents are present inside the project folder including presentation video.
 
 ![Screenshot (239)](https://user-images.githubusercontent.com/42509490/155874997-4b79db24-c957-4cbf-b124-32bafc852b7b.png)
 
